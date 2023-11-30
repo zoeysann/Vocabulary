@@ -1,0 +1,10 @@
+1. put some words in germany to dictionary 
+2. choose them randomly, then ask for it means as a quention
+
+]i've deleted variants 'cause if I wrote my answer there's no need to variants "i think"[
+
+4. give input for the answer 
+your answer:
+true answer:
+5. compare the answers 
+6. calculate score 
