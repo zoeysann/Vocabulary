@@ -1,0 +1,19 @@
+Version 1.0 
+1. put some words in germany to dictionary 
+2. choose them randomly, then ask for it means as a quention
+
+]i've deleted variants 'cause if I wrote my answer there's no need to variants "i think"[
+
+4. give input for the answer 
+your answer:
+true answer:
+5. compare the answers 
+6. calculate score 
+
+Version 2.0
+creating the second version of this code as Vocabulary 2.0
+1. Delete answer-input part [MADE]
+2. Add variants [NOT FINISHED]
+] I tried to change the order of them, i finally did but then I saw it's not so I just give up [
+3. Add choose section [NOT ADDED]
+4. count truth [NOT ADDED]
