@@ -14,6 +14,8 @@ Version 2.0
 creating the second version of this code as Vocabulary 2.0
 1. Delete answer-input part [MADE]
 2. Add variants [NOT FINISHED]
+
 ] I tried to change the order of them, i finally did but then I saw it's not so I just give up [
+
 3. Add choose section [NOT ADDED]
 4. count truth [NOT ADDED]
