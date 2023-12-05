@@ -46,6 +46,7 @@ for i in range(n):
         random.shuffle(list(variants.values()))
         print(f'{key}: {value}')
     
-    your_answer=input("Your answer: ")
+    
+    #your_answer=input("Your answer: ")
     #if your_answer==
     
