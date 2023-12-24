@@ -1,0 +1,29 @@
+1. put some words in germany to dictionary 
+2. choose them randomly, then ask for it means as a quention
+
+i've deleted variants 'cause if I wrote my answer there's no need to variants "i think"
+
+4. give input for the answer 
+your answer:
+true answer:
+5. compare the answers 
+6. calculate score 
+
+
+NEW FEAUTURES:
+
+	We've the vocabulary as csv file, so we can use that.
+	Don't forgot to apply "variants" part..
+
+
+CHANGES WHICH ADDED:
+
+	As version1, there was no variants
+	Version2 was version1 but with variants.
+	(But I had some issues with it, and I found another solution of it so I created version2_1.
+	I mean, there was a problem with shuffling values 'cause the answer was "c" always..)
+	And one feauture about Version2 I'd like to say issssss-
+	The User can input the answer both varian name and word [YASS, I DID THIS FOR NOTHING XDMKSMDKAMDKAM]
+	Of course, both are made with vocabulary dict.
+
+	Version3 will be made with csv file :D 
