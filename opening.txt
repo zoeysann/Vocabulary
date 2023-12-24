@@ -1,0 +1,14 @@
+
+Hallo!
+This is the opening wuahhauahuah (jk, hahah).
+So lemme explain how does it works:
+First we'll ask you the number of questions and then,
+Questions will appear on the screen.
+Then we'll ask you to choose 
+the correct answer you think from 3 options.
+You can input the answer as the name of variant,
+or directly as a word.
+If you want to write the answer a letter (name of variant),
+you've to write just like this: " a "
+That's it. Good Luck!!!
+
