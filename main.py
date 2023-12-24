@@ -18,22 +18,6 @@ with open("C:\\Users\\Monster\\Desktop\\Vocabulary\\de-en_adjective.csv") as csv
     print(f'Processed {line_count} lines.')
 
 
-
-# vocabulary={
-#     "sehr": "very",
-#     "gut": "good",
-#     "natürlich": "of course",
-#     "koche": "cook",
-#     "schach": "chess",
-#     "manchmal": "sometimes",
-#     "klein": "small",
-#     "gross": "big",
-#     "klug": "smart",
-#     "nett": "nice",
-#     "bitte": "please",
-#     "tschüss": "bye"
-#     }
-
 # n=int(input("Choose the number of questions: "))
 # tcount=0
 
