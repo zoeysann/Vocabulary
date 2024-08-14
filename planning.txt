@@ -16,14 +16,21 @@ NEW FEAUTURES:
 	Don't forgot to apply "variants" part..
 
 
-CHANGES WHICH ADDED:
+CHANGES WHICH ADDED:	[23 December]
 
 	As version1, there was no variants
 	Version2 was version1 but with variants.
 	(But I had some issues with it, and I found another solution of it so I created version2_1.
 	I mean, there was a problem with shuffling values 'cause the answer was "c" always..)
 	And one feauture about Version2 I'd like to say issssss-
-	The User can input the answer both varian name and word [YASS, I DID THIS FOR NOTHING XDMKSMDKAMDKAM]
+	The User can input the answer both variant name and word [YASS, I DID THIS FOR NOTHING XDMKSMDKAMDKAM]
 	Of course, both are made with vocabulary dict.
 
 	Version3 will be made with csv file :D 
+
+CHANGES WHICH ADDED:	[24 december]
+
+	Version3 added.
+	In this version, i just read the csv file and added its first 2 element in every row, to the "vocabulary" dict as key: value.
+	For some germany words which we can't write with english keyboard and also shown like "groÃŸ" or 'schÃ¶n' or 'mÃ¼de',
+	I removed "input your answer as the word" part.
